@@ -1,0 +1,23 @@
+/* RESET EVERYTHING */
+html, body, #root {
+  margin: 0 !important;
+  padding: 0 !important;
+  height: 100%;
+  width: 100%;
+  background-color: #121212;
+}
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+ font-size: 32px;
+}
+
+h3 {
+  font-size: 16px;
+}
+
+p {
+  font-size: 14px;
+}
